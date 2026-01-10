@@ -1,5 +1,4 @@
-const unusedVar = "test"
-console.log("Hello world")
+// Fixed linting errors
 function test() {
-  return "double quotes"
+  return 'single quotes';
 }
